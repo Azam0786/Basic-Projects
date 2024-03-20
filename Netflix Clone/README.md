@@ -38,4 +38,4 @@ I might add the other pages on the Netflix website if I ever come back to refact
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
 
 That being said
-_<p align="center">To the Front... to the Back... End to End... cut no slack. Making ends meet. lol</p>_
+_<p align="center">In the realm of code, from front to back, end to end, let no challenge deter our quest for excellence.</p>_
